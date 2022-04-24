@@ -3,7 +3,7 @@ public class Encapsulation {
     private String musicInstrument;
 
     public Encapsulation(String str){
-            musicEnstrument = str;
+            musicInstrument = str;
     }
 
     public String getMusicInstrument() {
