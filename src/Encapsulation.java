@@ -13,4 +13,5 @@ public class Encapsulation {
     public void setMusicInstrument(String musicInstrument) {
         this.musicInstrument = musicInstrument;
     }
+    // add step 1
 }
